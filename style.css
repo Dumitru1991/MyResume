@@ -156,7 +156,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/3.JPG") no-repeat center;
+    background: url("images/home.jpg") no-repeat center;
     height: 100vh;
     color: rgb(3, 2, 2);
     min-height: 500px;
@@ -231,7 +231,7 @@ section .title::after{
     display: inline-block;
     background: crimson;
     color: #fff;
-    font-size: 20px;
+    font-size: 20px; 
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
@@ -247,7 +247,7 @@ section .title::after{
 /* education section styling */
 .services{
     color:#fff;
-    background: url("images/education2.JPG");
+    background: url("images/education.jpg");
     background-size:     cover;                     
     background-repeat:   no-repeat;
     background-position: center center; 
